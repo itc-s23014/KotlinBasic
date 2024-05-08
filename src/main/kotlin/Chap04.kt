@@ -10,5 +10,5 @@ fun main(args: Array<String>) {
     val g: UByte = 150U
     val h: UShort = 33000U
     val i: UInt = 2200000U
-    val j: ULong = 10000000000000000UL
+    val j: ULong = 1000000000000000UL
 }
